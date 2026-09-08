@@ -1,3 +1,3 @@
 # kusumanjali
 First  project
-reverse array
+Reversing array
